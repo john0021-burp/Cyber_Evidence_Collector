@@ -25,3 +25,38 @@ A live forensics tool that collects browser history and system information acros
 
 ## 📁 Folder Structure
 
+cyber_evidence_collector/
+│
+├── collector.py # Main CLI script
+├── gui.py # GUI version
+├── utils/
+│ ├── browser_history.py # Handles all browser history collection
+│ └── system_info.py # (Optional) for system metadata
+├── templates/
+│ └── report_template.html # HTML template for reports
+├── output/
+│ └── [timestamped folders] # Where reports are saved
+├── requirements.txt # Python dependencies
+└── README.md 
+
+# This file
+
+
+---
+
+## 🛠️ Installation
+
+### 🔹 Option 1: Run as Python script
+
+1. Install Python 3.8+
+2. Install required packages:
+
+```bash
+pip install -r requirements.txt
+''''
+
+
+##Run the tool
+
+python collector.py     # CLI version
+python gui.py           # GUI version
