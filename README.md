@@ -39,6 +39,8 @@ cyber_evidence_collector/
 ├── requirements.txt # Python dependencies
 └── README.md 
 
+If you are using this code dont forget to give me a credit, it really boost me.
+
 # This file
 
 
