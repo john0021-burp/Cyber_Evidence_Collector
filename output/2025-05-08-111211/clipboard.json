@@ -1,0 +1,3 @@
+{
+    "clipboard": "save_to_file(collect_all_browser_histories(), os.path.join(output_dir, \"browser_history.json\"))\r\n"
+}

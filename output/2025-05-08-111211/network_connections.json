@@ -1,0 +1,1112 @@
+[
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": "fe80::3c17:18c3:2070:89b1:60548",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": "fe80::5a73:9b8:4c26:eb9e:60550",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:912",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 6328,
+        "process_name": "vmware-authd.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63623",
+        "raddr": "2620:1ec:bdf::48:443",
+        "status": "ESTABLISHED",
+        "pid": 26248,
+        "process_name": "Code.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63589",
+        "raddr": "64:ff9b::68d0:1059:443",
+        "status": "ESTABLISHED",
+        "pid": 26248,
+        "process_name": "Code.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.125.149:137",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": ":::49665",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 1164,
+        "process_name": "wininit.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": "::1:1900",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": ":::62411",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63619",
+        "raddr": "2600:140f:c00::b854:f849:443",
+        "status": "ESTABLISHED",
+        "pid": 14076,
+        "process_name": "XboxPcApp.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.244.1:60554",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63596",
+        "raddr": "64:ff9b::14be:918d:443",
+        "status": "TIME_WAIT",
+        "pid": 0,
+        "process_name": null
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63408",
+        "raddr": "2606:4700:99e2:7cbc:c2d9:c20:5ff2:75c4:443",
+        "status": "ESTABLISHED",
+        "pid": 23500,
+        "process_name": "msedge.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63499",
+        "raddr": "2405:200:1630:b79:face:b00c:3333:7020:443",
+        "status": "CLOSE_WAIT",
+        "pid": 12716,
+        "process_name": "WhatsApp.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": ":::445",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "0.0.0.0:64507",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 12696,
+        "process_name": "msedgewebview2.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": "fe80::72b7:79b9:42d3:bd4a:1900",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63362",
+        "raddr": "64:ff9b::227b:21ba:443",
+        "status": "ESTABLISHED",
+        "pid": 27760,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.244.1:1900",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63403",
+        "raddr": "2606:4700:99e2:7cbc:c2d9:d83:5ff2:75c4:443",
+        "status": "ESTABLISHED",
+        "pid": 23500,
+        "process_name": "msedge.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:49665",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 1164,
+        "process_name": "wininit.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.61.1:138",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.61.1:137",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "127.0.0.1:63306",
+        "raddr": "127.0.0.1:63305",
+        "status": "ESTABLISHED",
+        "pid": 24348,
+        "process_name": "python.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63632",
+        "raddr": "64:ff9b::227b:21ba:443",
+        "status": "ESTABLISHED",
+        "pid": 27760,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.56.1:138",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "127.0.0.1:64875",
+        "raddr": "127.0.0.1:64876",
+        "status": "ESTABLISHED",
+        "pid": 6328,
+        "process_name": "vmware-authd.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": ":::7680",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 15976,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": "fe80::89fb:cc64:acd3:5122:60551",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": ":::5355",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2856,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "127.0.0.1:64876",
+        "raddr": "127.0.0.1:64875",
+        "status": "ESTABLISHED",
+        "pid": 6328,
+        "process_name": "vmware-authd.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": "::1:60552",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:62905",
+        "raddr": "2603:1040:a06:6::2:443",
+        "status": "ESTABLISHED",
+        "pid": 6400,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": "fe80::72b7:79b9:42d3:bd4a:60549",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "127.0.0.1:56281",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 5996,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:7680",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 15976,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "192.168.61.1:139",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": ":::49669",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 1304,
+        "process_name": "services.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "::1:64521",
+        "raddr": "::1:64522",
+        "status": "ESTABLISHED",
+        "pid": 18264,
+        "process_name": "vmware.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63598",
+        "raddr": "64:ff9b::34bc:f794:443",
+        "status": "TIME_WAIT",
+        "pid": 0,
+        "process_name": null
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "127.0.0.1:1900",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "0.0.0.0:5353",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 3624,
+        "process_name": "msedge.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:49664",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 1332,
+        "process_name": "lsass.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:445",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "127.0.0.1:60557",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": ":::55149",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": "fe80::3c17:18c3:2070:89b1:1900",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63618",
+        "raddr": "2404:6800:4002:82e::2005:443",
+        "status": "ESTABLISHED",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": ":::5353",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2856,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63387",
+        "raddr": "64:ff9b::227b:21ba:443",
+        "status": "ESTABLISHED",
+        "pid": 27760,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "0.0.0.0:53365",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": ":::49666",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 2132,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "127.0.0.1:63354",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 27760,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": ":::5353",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 3624,
+        "process_name": "msedge.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": ":::49667",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 3176,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63643",
+        "raddr": "64:ff9b::14cc:f554:443",
+        "status": "ESTABLISHED",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.125.149:138",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.125.149:60556",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "0.0.0.0:5050",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 9172,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "0.0.0.0:5353",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2856,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "::1:64522",
+        "raddr": "::1:64521",
+        "status": "ESTABLISHED",
+        "pid": 18264,
+        "process_name": "vmware.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63613",
+        "raddr": "64:ff9b::8c52:7016:443",
+        "status": "ESTABLISHED",
+        "pid": 20648,
+        "process_name": "Code.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:62917",
+        "raddr": "2603:1040:a06:6::2:443",
+        "status": "ESTABLISHED",
+        "pid": 6400,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": ":::53365",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63391",
+        "raddr": "64:ff9b::22aa:413b:443",
+        "status": "ESTABLISHED",
+        "pid": 27760,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.61.1:1900",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "127.0.0.1:1123",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 27760,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.56.1:1900",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "0.0.0.0:54932",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:49667",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 3176,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": ":::49664",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 1332,
+        "process_name": "lsass.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": ":::49668",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 5528,
+        "process_name": "spoolsv.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.61.1:60555",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:902",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 6328,
+        "process_name": "vmware-authd.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": ":::54932",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "127.0.0.1:63285",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 20648,
+        "process_name": "Code.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "0.0.0.0:55149",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": ":::135",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 1592,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63629",
+        "raddr": "64:ff9b::227b:21ba:443",
+        "status": "ESTABLISHED",
+        "pid": 27760,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "192.168.125.149:62949",
+        "raddr": "34.107.243.93:443",
+        "status": "ESTABLISHED",
+        "pid": 6248,
+        "process_name": "vmnat.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:135",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 1592,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.244.1:137",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:62938",
+        "raddr": "64:ff9b::34bb:4f6d:443",
+        "status": "ESTABLISHED",
+        "pid": 23500,
+        "process_name": "msedge.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63631",
+        "raddr": "64:ff9b::227b:21ba:443",
+        "status": "ESTABLISHED",
+        "pid": 27760,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "127.0.0.1:64595",
+        "raddr": "127.0.0.1:64594",
+        "status": "ESTABLISHED",
+        "pid": 6328,
+        "process_name": "vmware-authd.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": "fe80::5a73:9b8:4c26:eb9e:1900",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:49666",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 2132,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "127.0.0.1:64594",
+        "raddr": "127.0.0.1:64595",
+        "status": "ESTABLISHED",
+        "pid": 6328,
+        "process_name": "vmware-authd.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63624",
+        "raddr": "64:ff9b::227b:21ba:443",
+        "status": "ESTABLISHED",
+        "pid": 17056,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63453",
+        "raddr": "2606:4700:99eb:5e56:bd9:d83:df20:bd83:443",
+        "status": "ESTABLISHED",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:49668",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 5528,
+        "process_name": "spoolsv.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:49669",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 1304,
+        "process_name": "services.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.125.149:1900",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": ":::64507",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 12696,
+        "process_name": "msedgewebview2.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.244.1:138",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.56.1:137",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "192.168.56.1:139",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63556",
+        "raddr": "64:ff9b::284f:8d98:443",
+        "status": "ESTABLISHED",
+        "pid": 23500,
+        "process_name": "msedge.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "2",
+        "laddr": "fe80::89fb:cc64:acd3:5122:1900",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "192.168.125.149:63634",
+        "raddr": "20.207.73.85:443",
+        "status": "ESTABLISHED",
+        "pid": 20648,
+        "process_name": "Code.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "127.0.0.1:63305",
+        "raddr": "127.0.0.1:63306",
+        "status": "ESTABLISHED",
+        "pid": 24348,
+        "process_name": "python.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "192.168.56.1:60553",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 13416,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "0.0.0.0:5040",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 9172,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "0.0.0.0:5355",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2856,
+        "process_name": "svchost.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63364",
+        "raddr": "64:ff9b::227b:21ba:443",
+        "status": "ESTABLISHED",
+        "pid": 27760,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "2",
+        "laddr": "0.0.0.0:62411",
+        "raddr": "",
+        "status": "NONE",
+        "pid": 2980,
+        "process_name": "brave.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63592",
+        "raddr": "64:ff9b::6254:56ee:443",
+        "status": "CLOSE_WAIT",
+        "pid": 6744,
+        "process_name": "EpicGamesLauncher.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "192.168.125.149:139",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 4,
+        "process_name": "System"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63193",
+        "raddr": "64:ff9b::170a:effb:80",
+        "status": "ESTABLISHED",
+        "pid": 12716,
+        "process_name": "WhatsApp.exe"
+    },
+    {
+        "fd": -1,
+        "family": "23",
+        "type": "1",
+        "laddr": "2409:40e4:1315:ee4e:41a0:f4db:7389:f517:63361",
+        "raddr": "64:ff9b::227b:21ba:443",
+        "status": "ESTABLISHED",
+        "pid": 27760,
+        "process_name": "TabNine.exe"
+    },
+    {
+        "fd": -1,
+        "family": "2",
+        "type": "1",
+        "laddr": "192.168.244.1:139",
+        "raddr": "",
+        "status": "LISTEN",
+        "pid": 4,
+        "process_name": "System"
+    }
+]

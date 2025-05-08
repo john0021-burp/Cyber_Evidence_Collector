@@ -1,0 +1,914 @@
+{
+    "Chrome": {
+        "error": "Chrome history file not found."
+    },
+    "Edge": [
+        {
+            "url": "https://chatgpt.com/c/6812d528-a464-8000-82ee-40a12b3d4533",
+            "title": "Tech for Policing Solutions",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 14:50:13"
+        },
+        {
+            "url": "https://chatgpt.com/",
+            "title": "ChatGPT",
+            "visit_count": 4,
+            "last_visit_time": "2025-05-07 14:50:02"
+        },
+        {
+            "url": "https://openai.com/chatgpt/overview/",
+            "title": "ChatGPT | OpenAI",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-07 14:49:15"
+        },
+        {
+            "url": "https://www.bing.com/search?q=chatgpt+login&gs_lcrp=EgRlZGdlKgcIAhBFGMIDMgcIABBFGMIDMgcIARBFGMIDMgcIAhBFGMIDMgcIAxBFGMIDMgcIBBBFGMIDMgcIBRBFGMIDMgcIBhBFGMIDMgcIBxBFGMID0gENMTIwNzU4MzQyajBqMagCCLACAQ&FORM=ANNTA1&PC=PCMWSB",
+            "title": "chatgpt login - Search",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-07 14:49:08"
+        },
+        {
+            "url": "https://www.bing.com/ck/a?!&&p=3a957cab8a275ab04334feac8e9eef5688c7d4ef02e0cbddecacb934dfcd83aaJmltdHM9MTc0NjU3NjAwMA&ptn=3&ver=2&hsh=4&fclid=1484ba54-e120-6108-116a-a866e08860f9&psq=chatgpt+login&u=a1aHR0cHM6Ly9vcGVuYWkuY29tL2NoYXRncHQvb3ZlcnZpZXcv&ntb=1",
+            "title": "",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 14:49:08"
+        },
+        {
+            "url": "file:///C:/Users/binay/Desktop/Binay%20Krishna%20Roy%20v1.1%20Resume.pdf",
+            "title": "Binay Krishna Roy v1.1 Resume.pdf",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:44:58"
+        },
+        {
+            "url": "https://github.com/nyxragon/ejpt-roadmap",
+            "title": "GitHub - nyxragon/ejpt-roadmap: This repository contains a roadmap for preparing for the EJPTv2 exam.",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-07 06:44:58"
+        },
+        {
+            "url": "https://github.com/microsoft/pyright/blob/main/docs/configuration.md#reportMissingImports",
+            "title": "pyright/docs/configuration.md at main \u00b7 microsoft/pyright \u00b7 GitHub",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:44:58"
+        },
+        {
+            "url": "https://store.supercell.com/clashofclans",
+            "title": "Clash of Clans - Supercell Store",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-06 14:19:35"
+        },
+        {
+            "url": "https://id.supercell.com/en/",
+            "title": "Supercell ID Rewards",
+            "visit_count": 3,
+            "last_visit_time": "2025-05-06 14:18:52"
+        },
+        {
+            "url": "https://id.supercell.com/en/activity/",
+            "title": "Supercell ID Rewards",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-06 14:18:36"
+        },
+        {
+            "url": "https://id.supercell.com/en/?gamecontext=clashofclans",
+            "title": "Supercell ID Rewards",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-06 14:18:27"
+        },
+        {
+            "url": "https://www.bing.com/search?qs=LS&pq=supercell&sk=CSYN1&sc=16-9&pglt=299&q=supercell+store&cvid=56a68cbea934432ca17931721ef02d1e&gs_lcrp=EgRlZGdlKgYIAhAAGEAyBggAEEUYOTIGCAEQLhhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQRRg8MgYICBBFGDzSAQg5MzE4ajBqMagCALACAA&FORM=ANNTA1&PC=PCMWSB",
+            "title": "supercell store - Search",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-06 14:16:09"
+        },
+        {
+            "url": "file:///K:/VulnHub/BadStore_net_v1_2_Manual.pdf",
+            "title": "BadStore_net_v1_2_Manual.pdf",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 14:16:02"
+        },
+        {
+            "url": "https://www.youtube.com/@ClashOfClans",
+            "title": "Clash of Clans - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-14 10:45:48"
+        },
+        {
+            "url": "https://store.supercell.com/clashofclans/product/gold-pass/17cdb88c",
+            "title": "Clash of Clans - Supercell Store",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-14 10:43:42"
+        },
+        {
+            "url": "https://store.supercell.com/en/",
+            "title": "Supercell Store",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-14 10:42:13"
+        },
+        {
+            "url": "https://www.bing.com/ck/a?!&&p=8ed870e5b17eb671e6b769f7a799645912680f5fd4adf4c46b1e0fc647824ebfJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=1484ba54-e120-6108-116a-a866e08860f9&psq=supercell+store&u=a1aHR0cHM6Ly9zdG9yZS5zdXBlcmNlbGwuY29tL2VuLw&ntb=1",
+            "title": "",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-14 10:42:12"
+        },
+        {
+            "url": "https://id.supercell.com/en/clashofclans/reward/?rewardId=%2371738-0",
+            "title": "Supercell ID Rewards",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-14 10:41:12"
+        },
+        {
+            "url": "https://id.supercell.com/en/?gamecontext=clashofclans&activation=initiate",
+            "title": "Supercell ID Rewards",
+            "visit_count": 3,
+            "last_visit_time": "2025-04-14 10:40:16"
+        },
+        {
+            "url": "https://id.supercell.com/authenticate/?code=eyJraWQiOiJjNzVhN2Y4M2U5MzMiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiI5My04Zjc1MTcxYS03NDc2LTQ1ZjctYTgzYS0zYmVhMzFmOGMzMzYiLCJpc3MiOiJzY2lkOm9hdXRoOmxvZ2luLTIiLCJhdWQiOiJzY2lkOm9hdXRoOnRva2VuIiwiaWF0IjoxNzQ0NjI3MjE1LCJleHAiOjE3NDQ2Mjc1MTUsInNjb3BlIjoiYWNjb3VudC5pbnRlcm5hbCBpZGVudGlmeSBpZGVudGl0eS5jb25uZWN0aW9uc19nYW1lX2RhdGEgaWRlbnRpdHkuY29ubmVjdGlvbnNfcmF3IHJld2FyZHMgc29jaWFsLnByb2ZpbGUiLCJjbGllbnRfaWQiOiIzNkQ4QkFBRS0wNUI0LTQ2MjktQUNEQi03NUU1ODNGNDAxRTAifQ.I3yozKQTejlYqbyE8ZCDQk4Y1MESptEqQneMXkbOxqQPGZe6k2ITx9nOjtsrCH6mvgtSVIOegfB76jWrfeHNlg&state=vqftlhos2um",
+            "title": "",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-14 10:40:15"
+        },
+        {
+            "url": "https://accounts.supercell.com/verify",
+            "title": "Supercell ID",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-14 10:39:36"
+        },
+        {
+            "url": "https://accounts.supercell.com/login",
+            "title": "Supercell ID",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-14 10:39:28"
+        },
+        {
+            "url": "https://accounts.supercell.com/oauth/authorize?response_type=code&client_id=36D8BAAE-05B4-4629-ACDB-75E583F401E0&state=vqftlhos2um&scope=identify%20social.profile%20identity.connections_raw%20identity.connections_game_data%20rewards%20account.internal&redirect_uri=https://id.supercell.com/authenticate/&lang=en",
+            "title": "Supercell ID",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-14 10:39:26"
+        },
+        {
+            "url": "https://accounts.supercell.com/?client_id=36D8BAAE-05B4-4629-ACDB-75E583F401E0&token=eyJraWQiOiJjNzVhN2Y4M2U5MzMiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiIzNkQ4QkFBRS0wNUI0LTQ2MjktQUNEQi03NUU1ODNGNDAxRTAiLCJpc3MiOiJzY2lkOm9hdXRoOmF1dGhvcml6ZSIsImF1ZCI6InNjaWQ6b2F1dGg6bG9naW4tMSIsInJlZGlyZWN0X3VyaSI6Imh0dHBzOi8vaWQuc3VwZXJjZWxsLmNvbS9hdXRoZW50aWNhdGUvIiwic3RhdGUiOiJ2cWZ0bGhvczJ1bSIsImlhdCI6MTc0NDYyNzE2NiwiZXhwIjoxNzQ0NjI4MzY2LCJzY29wZSI6ImFjY291bnQuaW50ZXJuYWwgaWRlbnRpZnkgaWRlbnRpdHkuY29ubmVjdGlvbnNfZ2FtZV9kYXRhIGlkZW50aXR5LmNvbm5lY3Rpb25zX3JhdyByZXdhcmRzIHNvY2lhbC5wcm9maWxlIn0.QNeQI44-on6PgdBI8PBtIcXjBU78RnVuhCuREb98L_H9dn5UVb45uwFmPzQtL-o72DkkzF4hIeanBpgsrz1f_g&lang=en",
+            "title": "Supercell ID",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-14 10:39:26"
+        },
+        {
+            "url": "https://www.microsoft.com/en-us/edge/update/135?form=MT00YD&channel=stable&version=135.0.3179.54&cs=3477714609",
+            "title": "What's new in Microsoft Edge",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-11 05:49:13"
+        },
+        {
+            "url": "https://go.microsoft.com/fwlink/?linkid=2140622&channel=stable&version=135.0.3179.54",
+            "title": "What's new in Microsoft Edge",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-07 08:35:06"
+        },
+        {
+            "url": "https://www.microsoft.com/edge/update?channel=stable&version=135.0.3179.54",
+            "title": "What's new in Microsoft Edge",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-07 08:35:06"
+        },
+        {
+            "url": "https://freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
+            "title": "Gobuster Tutorial \u2013 How to Find Hidden Directories, Sub-Domains, and S3 Buckets",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-06 12:49:55"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
+            "title": "Gobuster Tutorial \u2013 How to Find Hidden Directories, Sub-Domains, and S3 Buckets",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-06 12:49:55"
+        },
+        {
+            "url": "https://github.com/nyxragon/ejpt-roadmap?tab=readme-ov-file",
+            "title": "GitHub - nyxragon/ejpt-roadmap: This repository contains a roadmap for preparing for the EJPTv2 exam.",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-06 12:49:53"
+        },
+        {
+            "url": "https://www.bing.com/search?pglt=299&q=VAPT&cvid=80c3778a42f548778cb52a272c0d792a&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBBFGDzSAQgzNzk5ajBqMagCALACAA&FORM=ANNTA1&PC=PCMWSB",
+            "title": "VAPT - Search",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-05 14:09:13"
+        },
+        {
+            "url": "https://www.linkedin.com/posts/apc-learning-solutions_hiring-cybersecurityjobs-vapt-activity-7314263244775247872-HhdN?utm_source=share&utm_medium=member_android&rcm=ACoAADQWGh0B2ipi5bIJCBmRrNlfFgekbeYYtO0",
+            "title": "#hiring #cybersecurityjobs #vapt #seclance #joinourteam #wearehiring | Hackers University APC Learning Solutions",
+            "visit_count": 3,
+            "last_visit_time": "2025-04-05 14:06:00"
+        },
+        {
+            "url": "https://www.linkedin.com/redir/redirect?url=mailto%3Ashalini%2Erathore%40seclance%2Ecom&urlhash=rFeD&trk=public_post-text",
+            "title": "Link Error | LinkedIn",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-05 14:05:53"
+        },
+        {
+            "url": "https://www.linkedin.com/checkpoint/lg/login-challenge-submit?lastCv=AgEOXWGfZxSwcwAAAZYGRIHmrCk6Rhvs0Fml3Qw9GfHONz24d6_Qtm_6ROk&_d=d&vcd=AgFDYGNNuCzWFQAAAZYGRLTcf0k1CAbmqm6zNs3hBOaXU91aEIpAfZuURKNO5u9bXZBa_8VAhZMasSHbQggLLDBZORhi-A&pageInstance=urn%3Ali%3Apage%3Ad_checkpoint_ch_captchaV2Challenge%3BszDwVD1OR3un3vpMaatLXQ%3D%3D&controlId=d_checkpoint_ch_captchaV2Challenge-Submit&ut=3zm2GESk2IvbI1",
+            "title": "Restriction | LinkedIn",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-05 14:04:47"
+        },
+        {
+            "url": "https://www.linkedin.com/checkpoint/challenge/AgGRg-oVigJ0vwAAAZYGRIHwz-lsqh4QMr3rA2roPR6HYBDJZKMQeZ5ICKAzzgrPQF5jYPjefk91auSuQitXPJog5hxf5w?ut=37BBF8tAyIvbI1",
+            "title": "Security Verification | LinkedIn",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-05 14:04:34"
+        },
+        {
+            "url": "https://chatgpt.com/c/67ed20f5-f294-8000-a4bb-c4ce3cd483e8",
+            "title": "Backdoor Request Denied",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-02 11:35:18"
+        },
+        {
+            "url": "https://chatgpt.com/auth/login",
+            "title": "ChatGPT",
+            "visit_count": 2,
+            "last_visit_time": "2025-04-02 11:33:33"
+        },
+        {
+            "url": "https://openai.com/",
+            "title": "OpenAI",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-02 11:33:22"
+        },
+        {
+            "url": "https://www.bing.com/search?filters=ufn%3a%22OpenAI%22+sid%3a%229b131545-38a3-0bb6-c48a-345435a9a0a6%22&qs=MB&pq=opena&sk=CSYN1FT1&sc=16-5&pglt=299&q=openai&cvid=5535bb76efe94cb7b3fc32d210d2bb0b&gs_lcrp=EgRlZGdlKgcIABAuGPkHMgcIABAuGPkHMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDk0MTFqMGoxqAIAsAIA&FORM=ANSPA1&PC=PCMWSB",
+            "title": "openai - Search",
+            "visit_count": 2,
+            "last_visit_time": "2025-04-02 11:33:21"
+        },
+        {
+            "url": "https://www.bing.com/ck/a?!&&p=77b6c6dcc8375453d6a1a2915f57cace9d8f8a5473fdc9570c2d44420fb1c408JmltdHM9MTc0MzU1MjAwMA&ptn=3&ver=2&hsh=4&fclid=1484ba54-e120-6108-116a-a866e08860f9&psq=openai&u=a1aHR0cHM6Ly9vcGVuYWkuY29tLw&ntb=1",
+            "title": "",
+            "visit_count": 1,
+            "last_visit_time": "2025-04-02 11:33:21"
+        },
+        {
+            "url": "https://moviesmod.win/",
+            "title": "MoviesMod | Movies Mod 2025, MoviesMod Official, MoviesMod.how",
+            "visit_count": 1,
+            "last_visit_time": "2025-03-29 08:56:34"
+        },
+        {
+            "url": "https://moviesmod.bet/",
+            "title": "MoviesMod | Movies Mod 2025, MoviesMod Official, MoviesMod.how",
+            "visit_count": 1,
+            "last_visit_time": "2025-03-29 08:56:34"
+        },
+        {
+            "url": "https://moviesmod.gift/",
+            "title": "MoviesMod | Movies Mod 2025, MoviesMod Official, MoviesMod.how",
+            "visit_count": 1,
+            "last_visit_time": "2025-03-29 08:56:34"
+        },
+        {
+            "url": "https://modlist.in/",
+            "title": "MoviesMod 2024 Site",
+            "visit_count": 1,
+            "last_visit_time": "2025-03-29 08:53:04"
+        },
+        {
+            "url": "https://www.bing.com/search?qs=LS&pq=chat&sk=CSYN1UAS8LS4CT1AS2LC1&sc=22-4&pglt=299&q=chatgpt+login&cvid=c9738d1399264a7f88f99d5de9d82c26&gs_lcrp=EgRlZGdlKgYIAxAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAuGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQLhhAMgYICBAAGEDSAQg3Nzg2ajBqMagCCLACAQ&FORM=ANSPA1&PC=PCMWSB&dayref=1",
+            "title": "chatgpt login - Search",
+            "visit_count": 1,
+            "last_visit_time": "2025-03-26 07:07:25"
+        },
+        {
+            "url": "http://127.0.0.1:5000/",
+            "title": "Password Strength Checker",
+            "visit_count": 2,
+            "last_visit_time": "2025-03-25 12:56:19"
+        },
+        {
+            "url": "file:///C:/Users/binay/Desktop/password-strength-checker/frontend/index.html",
+            "title": "Password Strength Checker",
+            "visit_count": 1,
+            "last_visit_time": "2025-03-25 12:55:18"
+        },
+        {
+            "url": "https://www.bing.com/search?q=Install%20Pip%20Windows%20",
+            "title": "Install Pip Windows - Search",
+            "visit_count": 1,
+            "last_visit_time": "2025-03-25 12:45:24"
+        },
+        {
+            "url": "https://chatgpt.com/c/67e2979a-5c40-8000-8c80-080d42e71be3",
+            "title": "Cybersecurity Project Ideas",
+            "visit_count": 1,
+            "last_visit_time": "2025-03-25 11:56:22"
+        }
+    ],
+    "Brave": [
+        {
+            "url": "https://www.youtube.com/watch?v=lvm6Q3SBJEk",
+            "title": "(572) Install pyperclip in python - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-08 05:00:29"
+        },
+        {
+            "url": "https://www.youtube.com/results?search_query=how+to+install+pyperclip+in+visual+studio+code",
+            "title": "(572) how to install pyperclip in visual studio code - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-08 04:59:46"
+        },
+        {
+            "url": "https://www.youtube.com/",
+            "title": "(572) YouTube",
+            "visit_count": 440,
+            "last_visit_time": "2025-05-07 15:54:51"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/7wE1QePvw2Q",
+            "title": "(572) #short - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 12:44:28"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/OYBS9eBcyJ4",
+            "title": "(572) #short - YouTube",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-07 12:44:27"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/VXg71E3HBxk",
+            "title": "(572) #short - YouTube",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-07 12:44:24"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/ME86NBrMwB8",
+            "title": "(572) #short - YouTube",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-07 12:44:20"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/eS9BJNf98zg",
+            "title": "(572) #short - YouTube",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-07 12:44:17"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/-lX7BnKm7cA",
+            "title": "(572) #short - YouTube",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-07 12:43:24"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/h4XQ3sKOsqg",
+            "title": "(572) #short - YouTube",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-07 12:43:08"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=wPWL0ov_Lmo",
+            "title": "(572) How Operation Sindoor Took Place | India Strikes Pakistan | Vantage with Palki Sharma - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 12:31:38"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=ZkARBbu_41Q",
+            "title": "(572) BREAKING -MASOOD AZHAR FAMILY ELIMINATED Pakistani Army\u00a0Is\u00a0crying! - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 12:18:49"
+        },
+        {
+            "url": "https://www.youtube.com/results?search_query=form+filling+of+csir+cmc+chennai",
+            "title": "(572) form filling of csir cmc chennai - YouTube",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-07 12:18:30"
+        },
+        {
+            "url": "https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands",
+            "title": "Iptables Essentials: Common Firewall Rules and Commands | DigitalOcean",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:47:00"
+        },
+        {
+            "url": "https://gist.github.com/davydany/0ad377f6de3c70056d2bd0f1549e1017",
+            "title": "IP Tables (iptables) Cheat Sheet \u00b7 GitHub",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:45:56"
+        },
+        {
+            "url": "https://andreafortuna.org/2019/05/08/iptables-a-simple-cheatsheet/",
+            "title": "iptables: a simple cheatsheet | Andrea Fortuna",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:41:39"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=iptables+cheatsheet&atb=v348-1&ia=web",
+            "title": "iptables cheatsheet at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:41:31"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=iptables%20cheatsheet&atb=v348-1",
+            "title": "iptables cheatsheet at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:41:29"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=iptables+cheetsheet&atb=v348-1&ia=web",
+            "title": "iptables cheetsheet at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:41:27"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=iptables+cheetsheet",
+            "title": "iptables cheetsheet at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:41:25"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=iptables+cheetsheet&atb=v348-1",
+            "title": "iptables cheetsheet at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:41:25"
+        },
+        {
+            "url": "https://www.dcrustedp.in/StudentResult.php",
+            "title": "dcrustedp.in/StudentResult.php",
+            "visit_count": 18,
+            "last_visit_time": "2025-05-07 06:39:24"
+        },
+        {
+            "url": "https://www.dcrustedp.in/studentpage.php",
+            "title": "DCRUST - Examination Wing Login",
+            "visit_count": 20,
+            "last_visit_time": "2025-05-07 06:39:21"
+        },
+        {
+            "url": "https://www.dcrustedp.in/reappear_imp_apply.php",
+            "title": "DCRUST Examination",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-07 06:39:12"
+        },
+        {
+            "url": "https://www.dcrustedp.in/myexamlogin.php",
+            "title": "DCRUST - Examination Wing Login",
+            "visit_count": 19,
+            "last_visit_time": "2025-05-07 06:38:57"
+        },
+        {
+            "url": "https://www.dcrustedp.in/",
+            "title": "DCRUST Examination Wing",
+            "visit_count": 26,
+            "last_visit_time": "2025-05-07 06:38:53"
+        },
+        {
+            "url": "https://www.supportyourtech.com/articles/how-to-see-all-ip-addresses-on-network-windows-10-a-step-by-step-guide/",
+            "title": "How to See All IP Addresses on Network Windows 10: A Step-by-Step Guide - Support Your Tech",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 14:43:07"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=network+scan+command&atb=v348-1&ia=web",
+            "title": "network scan command at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 14:42:19"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=network+scan+command",
+            "title": "network scan command at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 14:42:17"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=network+scan+command&atb=v348-1",
+            "title": "network scan command at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 14:42:17"
+        },
+        {
+            "url": "https://chatgpt.com/c/681a1899-523c-8012-920c-fd5920653450",
+            "title": "Burp Suite for Pentesting",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 14:11:53"
+        },
+        {
+            "url": "https://chatgpt.com/",
+            "title": "ChatGPT",
+            "visit_count": 71,
+            "last_visit_time": "2025-05-06 14:11:29"
+        },
+        {
+            "url": "https://chatgpt.com/c/67fa5e4d-4278-8012-8fd0-e811d3cfb4f2",
+            "title": "Python Functions for Pentesters",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-06 14:11:01"
+        },
+        {
+            "url": "https://drive.google.com/file/d/101wzv9o7yE5Lr_f0ofXS6Q0rE6qQtivr/view",
+            "title": "CSIR Madras Complex Recruitment 2025 Notification.pdf - Google Drive",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 08:08:07"
+        },
+        {
+            "url": "https://drive.google.com/file/d/101wzv9o7yE5Lr_f0ofXS6Q0rE6qQtivr/view?usp=sharing",
+            "title": "CSIR Madras Complex Recruitment 2025 Notification.pdf - Google Drive",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 08:08:06"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=d8jnAo9r-iE",
+            "title": "(572) csir recruitment 2025 form fill up | csir apply online 2025 | csir chennai recruitment 2025 | - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 08:05:50"
+        },
+        {
+            "url": "https://www.youtube.com/results?search_query=form+filling+of+csir+cmc",
+            "title": "(572) form filling of csir cmc - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 08:04:55"
+        },
+        {
+            "url": "https://www.indgovtjobs.in/2025/04/csir-madras-complex-recruitment-2025.html",
+            "title": "CSIR CMC Recruitment 2025 - Online Form for 08 Assistant & Steno Posts",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 08:02:32"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=csir+cmc+recruitment&atb=v348-1&ia=web",
+            "title": "csir cmc recruitment at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 08:02:24"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=csir%20cmc%20recruitment&atb=v348-1",
+            "title": "csir cmc recruitment at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 08:02:22"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=csir+cmc+recurement&atb=v348-1&ia=web",
+            "title": "csir cmc recurement at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 08:02:08"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=csir+cmc+recurement",
+            "title": "csir cmc recurement at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 08:02:06"
+        },
+        {
+            "url": "https://duckduckgo.com/?q=csir+cmc+recurement&atb=v348-1",
+            "title": "csir cmc recurement at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 08:02:06"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/BP8yYqUWz0Y",
+            "title": "(572) TOP 3 GOVERNMENT JOBS IN May 2025 NEW GOVT JOB VACANCY 2025 LATEST JOB VACANCY ALL INDIAN JOB - YouTube",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-06 08:00:22"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/V1d_ORJt4hs",
+            "title": "(572) TOP 3 GOVERNMENT JOBS IN May 2025 NEW GOVT JOB VACANCY 2025 LATEST JOB VACANCY ALL INDIAN JOB - YouTube",
+            "visit_count": 2,
+            "last_visit_time": "2025-05-06 08:00:14"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/mb5Qo-3rWNk",
+            "title": "(572) TOP 3 GOVERNMENT JOBS IN May 2025 NEW GOVT JOB VACANCY 2025 LATEST JOB VACANCY ALL INDIAN JOB - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 07:59:13"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=zrkyGaU-j30",
+            "title": "(572) UNSC Rejects Pakistan's False Flag Narrative, Asks If Lashkar Involved In Pahalgam Terror Attack - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 07:57:50"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/9DQklGxfeQA",
+            "title": "(572) WHAT IS A BLACK CARD? \ud83d\udcb3 - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 07:56:27"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/iJwSzDdWRJg",
+            "title": "(572) WHAT IS A BLACK CARD? \ud83d\udcb3 - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 07:54:42"
+        },
+        {
+            "url": "https://www.youtube.com/shorts/rFWwLY84SJw",
+            "title": "(572) WHAT IS A BLACK CARD? \ud83d\udcb3 - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2025-05-06 07:54:38"
+        }
+    ],
+    "Firefox": [
+        {
+            "url": "https://www.youtube.com/",
+            "title": null,
+            "visit_count": 51,
+            "last_visit_time": "2023-08-25 06:13:44"
+        },
+        {
+            "url": "https://duckduckgo.com/?t=ffab&q=python",
+            "title": "python at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2023-08-04 14:31:15"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=SzCmiiaHDJt.JS6.A1AFdZqGEdo6t4Lq0aK.tOxFUYE-1688890791-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 08:19:55"
+        },
+        {
+            "url": "https://tempail.com/en/",
+            "title": "Temp Mail - Temporary Email",
+            "visit_count": 16,
+            "last_visit_time": "2023-07-09 08:19:49"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=SzCmiiaHDJt.JS6.A1AFdZqGEdo6t4Lq0aK.tOxFUYE-1688890791-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 08:19:49"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=.7CNHN3zmctZpt2z0cjFZ.ryU5DaVfjxBpe67ZHIfUo-1688888984-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 07:49:47"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=.7CNHN3zmctZpt2z0cjFZ.ryU5DaVfjxBpe67ZHIfUo-1688888984-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 07:49:42"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=SveCooS7fFe_cYapF9Jw.Q2YsnhVmuv2Ai2RRXaGua0-1688887171-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 07:19:39"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=SveCooS7fFe_cYapF9Jw.Q2YsnhVmuv2Ai2RRXaGua0-1688887171-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 07:19:29"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=nKmXgL5bM9oajnHWztY2MFg8WrRyz9pZod1owTOJPoc-1688885357-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 06:49:23"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=nKmXgL5bM9oajnHWztY2MFg8WrRyz9pZod1owTOJPoc-1688885357-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 06:49:15"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=TGggugjSrDH7sRj.Zm3ocdxGP6TeHmO48tJ3C4Xin60-1688883545-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 06:19:10"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=TGggugjSrDH7sRj.Zm3ocdxGP6TeHmO48tJ3C4Xin60-1688883545-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 06:19:03"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=OZ0hBXIWtx66BCYmZAbZKAIVvQ1vAy3xkXkFDnVxuz8-1688881731-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 05:48:58"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=OZ0hBXIWtx66BCYmZAbZKAIVvQ1vAy3xkXkFDnVxuz8-1688881731-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 05:48:48"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=X9GTzmLtLSUVs4yOlU_4m.HhUg1v1SNlMsn99_EuQAQ-1688879920-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 05:18:45"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=X9GTzmLtLSUVs4yOlU_4m.HhUg1v1SNlMsn99_EuQAQ-1688879920-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 05:18:38"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=KKrwya_4I7leEBAYNJ8s29bK5vgVgJGCnGK4zhv1kC0-1688878104-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 04:48:26"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=KKrwya_4I7leEBAYNJ8s29bK5vgVgJGCnGK4zhv1kC0-1688878104-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 04:48:22"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=vQOC4QZhBSpnfOnOmaESRcPaiPCbCQQye6LaZgPrXqM-1688876294-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 04:18:17"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=vQOC4QZhBSpnfOnOmaESRcPaiPCbCQQye6LaZgPrXqM-1688876294-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 04:18:11"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=GBA8PbIM0186ntA474ijmsL0otdVGqfhfYcWH70.rCk-1688874486-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 03:48:09"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=GBA8PbIM0186ntA474ijmsL0otdVGqfhfYcWH70.rCk-1688874486-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 03:48:04"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=aeooNf3fvAXiwOWxtfTrdJ1JqgJLGZvDio4yTZuN528-1688872677-0-gaNycGzNDOU",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 03:18:01"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=aeooNf3fvAXiwOWxtfTrdJ1JqgJLGZvDio4yTZuN528-1688872677-0-gaNycGzNDOU",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-09 03:17:54"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=w2nMMSC81iHTMIQLdF287xak0_27OuEfcpuJw77wWtw-1688846322-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 19:58:48"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=w2nMMSC81iHTMIQLdF287xak0_27OuEfcpuJw77wWtw-1688846322-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 19:58:39"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=iBZo7L5rLMpHwKESqX8_5LIsG108MNEvorbhT1bkxec-1688844510-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 19:28:35"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=iBZo7L5rLMpHwKESqX8_5LIsG108MNEvorbhT1bkxec-1688844510-0-gaNycGzNC_s",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 19:28:27"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=YKkn5j53SnSqiA6GwO2y1NlhSKA8ZwOvhTy92BFBnHI-1688842704-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 18:58:28"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=YKkn5j53SnSqiA6GwO2y1NlhSKA8ZwOvhTy92BFBnHI-1688842704-0-gaNycGzNC2U",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 18:58:21"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_tk=jbdShPS4DXAYFadLVzd5344e3QL85EpTTkKvRAx4ZD8-1688840553-0-gaNycGzNCyU",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 18:22:32"
+        },
+        {
+            "url": "https://tempail.com/en/?__cf_chl_rt_tk=jbdShPS4DXAYFadLVzd5344e3QL85EpTTkKvRAx4ZD8-1688840553-0-gaNycGzNCyU",
+            "title": "Just a moment...",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 18:22:30"
+        },
+        {
+            "url": "https://duckduckgo.com/?t=ffab&q=temp+mail&ia=web",
+            "title": "temp mail at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 18:22:28"
+        },
+        {
+            "url": "https://duckduckgo.com/?t=ffab&q=temp+mail",
+            "title": "temp mail at DuckDuckGo",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 18:22:27"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=KKukXWN8ym0",
+            "title": "What went Wrong with Adipurush? | The Indian Film Industry Formula | Dhruv Rathee - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 13:00:08"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=3XXXetjliZ4",
+            "title": "Should You Visit Pune? Our Reactions! - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 12:42:23"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=YyHlLguJhOw",
+            "title": "Our Parents Finally Met AFTER OUR MARRIAGE! \ud83c\uddee\ud83c\uddf3\ud83d\udc8d\ud83c\uddf3\ud83c\uddff #RockFamily - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 12:34:36"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=ZcZtbcO4rJQ",
+            "title": "A Day in My Life: MY PARENTS Come to Our Joint-Family Home in India \ud83c\uddee\ud83c\uddf3 #RockFamily - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 12:31:49"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=y7kSOYNDg14",
+            "title": "Finally Going Home to India after 514 Days! \ud83c\uddee\ud83c\uddf3 - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 12:19:27"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=L0P8AqYJcaU",
+            "title": "Attending an Arranged Marriage in an Indian Village! #VillageWalaRock - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 12:13:34"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=H_oEk6y08bg",
+            "title": "How Many Indian Girls Did I Date? Meet My Family! #RockFamily - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 12:09:50"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=6ERHAK10BxY",
+            "title": "My Sister's First Day in India \ud83c\uddee\ud83c\uddf3 #RockFamily - YouTube",
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 11:59:41"
+        },
+        {
+            "url": "http://mercury.picoctf.net:54219/check",
+            "title": "Cookies",
+            "visit_count": 4,
+            "last_visit_time": "2023-07-08 11:40:00"
+        },
+        {
+            "url": "http://mercury.picoctf.net:54219/",
+            "title": "Cookies",
+            "visit_count": 8,
+            "last_visit_time": "2023-07-08 11:06:42"
+        },
+        {
+            "url": "http://mercury.picoctf.net:54219/reset",
+            "title": null,
+            "visit_count": 3,
+            "last_visit_time": "2023-07-08 11:05:31"
+        },
+        {
+            "url": "http://mercury.picoctf.net:45028/",
+            "title": "Red",
+            "visit_count": 5,
+            "last_visit_time": "2023-07-08 10:45:23"
+        },
+        {
+            "url": "http://mercury.picoctf.net:45028/image.php",
+            "title": null,
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 10:45:16"
+        },
+        {
+            "url": "http://mercury.picoctf.net:45028/image",
+            "title": null,
+            "visit_count": 1,
+            "last_visit_time": "2023-07-08 10:45:09"
+        },
+        {
+            "url": "http://mercury.picoctf.net:45028/index.php?",
+            "title": "Red",
+            "visit_count": 3,
+            "last_visit_time": "2023-07-08 10:44:48"
+        }
+    ],
+    "Safari": {
+        "error": "Safari history file not found or not supported on this OS."
+    }
+}
